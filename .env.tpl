@@ -1,0 +1,2 @@
+VITE_SUPABASE_URL=op://CI-CD/Supabase taro-hub/SUPABASE_URL
+VITE_SUPABASE_ANON_KEY=op://CI-CD/Supabase taro-hub/SUPABASE_ANON_KEY
