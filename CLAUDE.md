@@ -1,6 +1,5 @@
 ## PR作成ルール
-PRを作成したら、必ず auto-merge を有効にすること:
+PRを作成したら、auto-merge は設定せず、必ず人間のレビュアー承認後にマージすること:
 ```bash
 gh pr create --title "..." --body "..."
-gh pr merge {PR番号} --auto --squash
 ```
